@@ -5,7 +5,10 @@ Using Node.js, input information about your employees to generate an HTML webpag
 * JavaScript
 * HTML
 * CSS
+* Node
+* Inquirer
 * Express.js
+
 # Installation
 Navigate to the directory you wish to install the program into. Open your terminal and run the command,
 
@@ -27,3 +30,4 @@ Follow the prompts, and when complete, click N to generate an HTML page of your 
 The HTML file will be found in the /dist folder. Simply open index.html to view your webpage.
 
 # Video Demonstration
+https://www.youtube.com/watch?v=MujZJpaS2mQ
