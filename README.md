@@ -1,6 +1,8 @@
 # Challenge-10-Team Profile Generator
 # Purpose
-Using Node.js, input information about your employees to generate an HTML webpage displaying summaries for each person.
+Using Node.js, input information about your employees to generate an HTML webpage displaying summaries for each person. 
+
+This is not a deployed webpage. You must clone the repo and run it from your computers command line!
 # Built With
 * JavaScript
 * HTML
