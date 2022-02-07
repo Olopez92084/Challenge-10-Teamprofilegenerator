@@ -7,7 +7,6 @@ Using Node.js, input information about your employees to generate an HTML webpag
 * CSS
 * Node
 * Inquirer
-* Express.js
 
 # Installation
 Navigate to the directory you wish to install the program into. Open your terminal and run the command,
